@@ -1,5 +1,5 @@
 //
-//  BSViewController.h
+//  BSTableViewController.h
 //  myTableView
 //
 //  Created by Aditya Sanka on 04/07/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BSViewController : UIViewController
+@interface BSTableViewController : UITableViewController
 
 @end
